@@ -4,3 +4,8 @@ com.github.moribund.desktop
 com.github.moribund.entity
 com.github.moribund.images
 com.github.moribund.net
+com.github.moribund.net.packets
+com.github.moribund.net.serializer
+com.github.moribund.screens
+com.github.moribund.screens.game
+com.github.moribund.screens.title
