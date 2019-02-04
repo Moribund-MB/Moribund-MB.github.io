@@ -6,8 +6,8 @@ The website for the survival battle royale where time is of the essence.
 
 ## State
 As of right now, the website is not made. However, the Javadoc has been generated for the client and server. 
-- The client Java-documentation matches that of all contents from version 1.0 that can be found at [this](https://github.com/Moribund-MB/Moribund-Client/tree/f8c89e00336292b3fe08b30dddd6efbc554c3425) point in the repo (commit f8c89e0).
-- The server Java-documentation matches that of all contents from version 1.0 that can be found at [this](https://github.com/Moribund-MB/Moribund-Server/tree/c4cc13273e2ac4d234005d7b42725e8382c668a1) point in the repo (commit c4cc132).
+- The client Java-documentation matches that of all contents from version 1.0 that can be found at [this](https://github.com/Moribund-MB/Moribund-Client/tree/01de5dd7f2a10f7c234dfb2bccb4df804ba6541b) point in the repo (commit 01de5dd).
+- The server Java-documentation matches that of all contents from version 1.0 that can be found at [this](https://github.com/Moribund-MB/Moribund-Server/tree/01e7f9b8175db9ba4f8e519cc274f88258a752b6) point in the repo (commit 01e7f9b).
 
 ## Features
 - An animated log in screen.
